@@ -1,0 +1,13 @@
+Exercises.ipynb :
+	
+	1. Exercise 3.12 part (iii)
+
+
+
+
+Application Problems.ipynb :
+
+	1. Exercise 3.25 part (i)
+	2. Exercise 3.25 part (ii)
+	3. Exercise 3.25 part (iii)
+	4. Exercise 3.26
