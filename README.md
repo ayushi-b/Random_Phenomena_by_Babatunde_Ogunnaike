@@ -12,19 +12,19 @@ The solutions are written in Tex. I have tried to include Python codes to the pr
 
 Problem Exercises in this book are divided into 3 parts:
 
-1. Review Questions - I have not covered these questions because these are to make sure you have read and understood the text completely. If you are unable to answer any of these questions, I HIGHLY RECOMMEND GOING BACK TO THE TEXT, RE-READ THE PARTICULAR TOPIC AND TRY ANSWERING AGAIN.
+1. `Review Questions` - I have not covered these questions because these are to make sure you have read and understood the text completely. If you are unable to answer any of these questions, I HIGHLY RECOMMEND GOING BACK TO THE TEXT, RE-READ THE PARTICULAR TOPIC AND TRY ANSWERING AGAIN.
 
-2. Exercises - are designed to provide the opportunity to master the mechanics behind a SINGLE CONCEPT. These may be "mechanical" or "application-based" but the focus is usually a single aspect of a topic covered in the text, or a straightforward extension thereof.
+2. `Exercises` - are designed to provide the opportunity to master the mechanics behind a SINGLE CONCEPT. These may be "mechanical" or "application-based" but the focus is usually a single aspect of a topic covered in the text, or a straightforward extension thereof.
 
-3. Application Problems - are more substantial practical problems whose solutions usually require INTEGRATING VARIOUS CONCEPTS (some obvious, some not) and deploying the appropriate set of tools. Many of these are drawn from the literature and involve real applications and actual data sets.
+3. `Application Problems` - are more substantial practical problems whose solutions usually require INTEGRATING VARIOUS CONCEPTS (some obvious, some not) and deploying the appropriate set of tools. Many of these are drawn from the literature and involve real applications and actual data sets.
 
 <br>
 
 ## Details about files in each Chapter folder
 
-1. __`"Exercises.ipynb"`__ : This notebook contains solutions to the second part of problem exercises in the book.
+1. __`"EXERCISES.ipynb"`__ : This notebook contains solutions to the second part of problem exercises in the book.
 "
-2. __`"Application Problems.ipynb"`__ : This notebook contains solutions to the third part of problem exercises in the book.
+2. __`"APPLICATION PROBLEMS.ipynb"`__ : This notebook contains solutions to the third part of problem exercises in the book.
 
 3. __`"Unanswered Exercises.txt"`__ : This file lists the currently unanswered questions that I either failed to understand or failed to answer.
 
