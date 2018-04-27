@@ -7,4 +7,4 @@ Exercises.ipynb :
 
 Application Problems.ipynb :
 
-	1. Exercise 1.15 part (iv)
+	1. None
