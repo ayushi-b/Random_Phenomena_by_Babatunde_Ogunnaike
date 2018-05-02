@@ -1,6 +1,8 @@
 Exercises.ipynb :
 	
-	1. None
+	1. Exercise 4.15 - Not sure which Random variables are being referred to. The one in Exercise 4.6 is not continuous.  
+	2. Exercise 4.19 - Median
+	3. Exercise 4.24 - Observations
 
 
 
