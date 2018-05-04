@@ -23,7 +23,7 @@ Problem Exercises in this book are divided into 3 parts:
 ## Details about files in each Chapter folder
 
 1. __`"EXERCISES.ipynb"`__ : This notebook contains solutions to the second part of problem exercises in the book.
-"
+
 2. __`"APPLICATION PROBLEMS.ipynb"`__ : This notebook contains solutions to the third part of problem exercises in the book.
 
 3. __`"Unanswered Exercises.txt"`__ : This file lists the currently unanswered questions that I either failed to understand or failed to answer.
