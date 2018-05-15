@@ -28,7 +28,7 @@ Problem Exercises in this book are divided into 3 parts:
 
 3. __`"Unanswered Exercises.txt"`__ : This file lists the currently unanswered questions that I either failed to understand or failed to answer.
 
-4. __`"Try Yourself"`__ : It is a folder containing the unanswered question notebooks so that any one can start solving the questions right away. It is useful for questions that require coding. 
+4. __`"Try Yourself"`__ : It is a folder containing the unanswered 'Question Notebooks' so that any one can start solving the questions right away. It is useful for questions that require coding. 
 
 5. __`Other Files`__ : The remaining files (images and dataset files) are there to help better illustrate the exercises in jupyter notebooks or to better answer them.
 
