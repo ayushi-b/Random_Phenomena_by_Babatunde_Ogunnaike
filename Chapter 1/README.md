@@ -22,7 +22,7 @@ We can easily solve problems related to deterministic process. Like if we want t
 
 <br>
 
-![](media/table1_1.png)
+<img src = "media/Table1_1.png" width="300px"/>
 
 <br>
  
@@ -61,18 +61,18 @@ This reclassification indicates, for instance, that for Y<sub>A</sub>, there is 
 <table>
     <tr>
         <td>
-        <img src = "media/table1_3.png" width="300">
+        <img src = "media/Table1_3.png" width="300">
         </td>
         <td>
-        <img src = "media/fig12_8.png" width="400">
+        <img src = "media/Fig12_8.png" width="400">
         </td>
     </tr>
     <tr>
         <td>
-        <img src = "media/table1_4.png" width="300">
+        <img src = "media/Table1_4.png" width="300">
         </td>
         <td>
-        <img src = "media/fig1_2.png" width="400">
+        <img src = "media/Fig1_2.png" width="400">
         </td>
     </tr>
 </table>
