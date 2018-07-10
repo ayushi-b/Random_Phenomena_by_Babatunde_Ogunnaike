@@ -21,7 +21,7 @@ ____
 We can easily solve problems related to deterministic process. Like if we want to compare which of the two Processes A or B is better (given deterministic experiment results), we can simply compare the values and say that the one with higher yield result is better. Though this does not happen in real life. The actual results look something like this:
 
 <br>
-<img src = "media/table1_1.png" width="300px"/>
+<img src = "../Chapter 1/media/table1_1.png" width="300px"/>
 <br>
  
 Here, sometimes Y<sub>A</sub> is greater than Y<sub>B</sub> and sometimes it is smaller. The results of the 2 processes are uncertain. We cannot simply compare these values and determine which process is better.
