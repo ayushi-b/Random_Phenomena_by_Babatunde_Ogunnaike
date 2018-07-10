@@ -13,7 +13,7 @@ Let us suppose we perform a chemical experiment several times to calculate the i
 
 <br>
 
-### **A Motivating Example**
+## **A Motivating Example**
 ____
 
 `Note: There are two motivating examples in the book – One for continuous data (the one included in these notes) and the other one for discrete data. I left the discrete one out as the concepts are same and apply directly to it.`
@@ -48,7 +48,7 @@ There is a lot more to dealing with this example problem than merely using the i
  
 <br>
 
-### **Group Classification and Frequencies**
+## **Group Classification and Frequencies**
 ____
 
 
@@ -93,7 +93,7 @@ How can the benefits of the histogram be consolidated into a useful tool for qua
  
 <br>
 
-### **Certainty in Uncertainty:**
+## **Certainty in Uncertainty:**
 ____
 
 Even though the above example is non-deterministic in nature, we were still able to perform quantitative analysis on it. For example - We cannot say with certainty what the yield result will be if the experiment is performed one more time, but we can say that there are 94% chance of  Y<sub>A</sub> > 73.5 and only 38% chances of  Y<sub>B</sub>  > 73.5.
@@ -104,7 +104,6 @@ Conversely, there is some certainty in random - uncertain outcomes too.
 The following points can be stated for a random phenomena:
 1. If characterized properly, random phenomena are subject to rigorous mathematical analysis in much the same manner as deterministic phenomena.
 The unpredictable irregularities of the individual observations (or, more generally, the “detail”) of random phenomena in fact co-exist with surprisingly predictable ensemble, or aggregate, behavior. This fact makes rigorous analysis possible.
-2. The ensemble (or aggregate) characterization provided by ideal probability models can be used successfully to develop the theoretical basis for solving real problems where one is always limited to dealing with an incomplete collection of individual observations—never the entire aggregate.
- A key defining characteristic of random phenomena is that specific outcomes or observations cannot be predicted with absolute certainty. With probabilistic analysis, this otherwise “impossible task” of predicting the unpredictable individual observation or outcome is simply replaced by the analytical task of determining the mathematical probability of its occurrence.
+2. The ensemble (or aggregate) characterization provided by ideal probability models can be used successfully to develop the theoretical basis for solving real problems where one is always limited to dealing with an incomplete collection of individual observations — never the entire aggregate. A key defining characteristic of random phenomena is that specific outcomes or observations cannot be predicted with absolute certainty. With probabilistic analysis, this otherwise “impossible task” of predicting the unpredictable individual observation or outcome is simply replaced by the analytical task of determining the mathematical probability of its occurrence.
 
 There is a pattern hidden inside random data that can be approximated with statistical approaches. This forms the basis for the modern day Machine Learning methods.
