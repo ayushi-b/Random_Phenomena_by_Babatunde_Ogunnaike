@@ -21,7 +21,7 @@ ____
 We can easily solve problems related to deterministic process. Like if we want to compare which of the two Processes A or B is better (given deterministic experiment results), we can simply compare the values and say that the one with higher yield result is better. Though this does not happen in real life. The actual results look something like this:
 
 <br>
-<table><tr><td><img src = "media/table1_1.png" width=300></td></tr></table>
+<table><tr><td><img src = "../media/table1_1.png" width=300></td></tr></table>
 
 <br>
  
@@ -60,18 +60,18 @@ This reclassification indicates, for instance, that for Y<sub>A</sub>, there is 
 <table>
     <tr>
         <td>
-        <img src = "media/table1_3.png" width=300>
+        <img src = "../media/table1_3.png" width=300>
         </td>
         <td>
-        <img src = "media/fig12_8.png" width=400>
+        <img src = "../media/fig12_8.png" width=400>
         </td>
     </tr>
     <tr>
         <td>
-        <img src = "media/table1_4.png" width=300>
+        <img src = "../media/table1_4.png" width=300>
         </td>
         <td>
-        <img src = "media/fig1_2.png" width=400>
+        <img src = "../media/fig1_2.png" width=400>
         </td>
     </tr>
 </table>
